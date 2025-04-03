@@ -1,0 +1,9 @@
+name: cmd_commerce
+version: '1.0'
+main: fr.imbatable.plugin.Cmd_commerce
+commands:
+  commerce:
+    description: cette commande permmettra de faire une pub d'un item dans le chat
+    permission: player
+    permission-message: §c vous ne pouvez pas executer cette commande !
+depend: [Vault]
