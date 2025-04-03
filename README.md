@@ -1,2 +1,2 @@
 # Sonaria_CMB
-fezf
+package conetenant le plugin de pub_commerce de sonaria
